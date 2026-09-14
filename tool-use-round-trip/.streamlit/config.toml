@@ -1,0 +1,12 @@
+# Pinned so the demo looks the same on every machine, whatever the
+# student's system theme is set to.
+[theme]
+base = "light"
+primaryColor = "#c0562a"
+backgroundColor = "#ffffff"
+secondaryBackgroundColor = "#f5f2ed"
+textColor = "#1f1f1f"
+font = "sans serif"
+
+[server]
+headless = true

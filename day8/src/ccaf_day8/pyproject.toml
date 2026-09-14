@@ -1,0 +1,10 @@
+[project]
+name = "ccaf-caching-batching"
+version = "0.1.0"
+description = "CCAF teaching demo: prompt caching (live chat) + batch processing (bulk emails)"
+requires-python = ">=3.10"
+dependencies = [
+    "anthropic",
+    "python-dotenv",
+    "streamlit",
+]

@@ -1,0 +1,21 @@
+[project]
+name = "ccaf-day8"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+authors = [
+    { name = "RickyDas999", email = "116985003+RickyDas999@users.noreply.github.com" }
+]
+requires-python = ">=3.12"
+dependencies = [
+    "anthropic>=0.122.0",
+    "python-dotenv>=1.2.3",
+    "streamlit>=1.61.1",
+]
+
+[project.scripts]
+ccaf-day8 = "ccaf_day8:main"
+
+[build-system]
+requires = ["uv_build>=0.12.3,<0.13.0"]
+build-backend = "uv_build"

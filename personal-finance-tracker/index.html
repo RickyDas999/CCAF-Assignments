@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Personal Finance Tracker</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header class="app-header">
+    <h1>Personal Finance Tracker</h1>
+    <nav class="tab-nav" aria-label="Sections">
+      <button type="button" class="tab-btn" data-tab="dashboard">Dashboard</button>
+      <button type="button" class="tab-btn" data-tab="incomeExpenses">Income &amp; Expenses</button>
+      <button type="button" class="tab-btn" data-tab="investments">Investments</button>
+      <button type="button" class="tab-btn" data-tab="watchlist">Stocks to Watch</button>
+    </nav>
+  </header>
+
+  <main class="app-main">
+    <section id="panel-dashboard" class="tab-panel" hidden></section>
+    <section id="panel-incomeExpenses" class="tab-panel" hidden></section>
+    <section id="panel-investments" class="tab-panel" hidden></section>
+    <section id="panel-watchlist" class="tab-panel" hidden></section>
+  </main>
+
+  <div id="live-region" class="sr-only" role="status" aria-live="polite"></div>
+
+  <script type="module" src="js/app.js"></script>
+</body>
+</html>

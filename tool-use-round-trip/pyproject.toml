@@ -1,0 +1,13 @@
+[project]
+name = "ccaf-d12"
+version = "0.1.0"
+description = "CCAF Day 12 - the tool_use round-trip, demonstrated against a live Google Sheet"
+requires-python = ">=3.10"
+dependencies = [
+    "anthropic>=0.40",
+    "streamlit>=1.39",
+    "python-dotenv>=1.0",
+    "google-api-python-client>=2.100",
+    "google-auth>=2.30",
+    "pandas>=2.0",
+]
