@@ -16,5 +16,3 @@ Consolidated collection of assignments and exercises from my CCAF course. Each f
 | [`global-tech-news/`](./global-tech-news) | [Global-Tech-News](https://github.com/RickyDas999/Global-Tech-News) | Global tech news project |
 | [`country-intelligence-dashboard/`](./country-intelligence-dashboard) | [Country-Intelligence-Dashboard](https://github.com/RickyDas999/Country-Intelligence-Dashboard) | Country intelligence dashboard project |
 | [`personal-finance-tracker/`](./personal-finance-tracker) | [Personal-Finance-Tracker](https://github.com/RickyDas999/Personal-Finance-Tracker) | Personal finance tracker project |
-
-Note: `ccaf-day9` and `Global-Tech-News-Dashboard` were left out — their source repos are empty (no files pushed yet).
