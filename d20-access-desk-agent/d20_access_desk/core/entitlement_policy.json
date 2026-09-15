@@ -1,0 +1,16 @@
+{
+  "self_serve": [
+    "password_reset",
+    "account_unlock",
+    "vpn_access",
+    "software_install_standard"
+  ],
+  "privileged": [
+    "finance_admins_group",
+    "hr_admin_group",
+    "domain_admin",
+    "prod_database_access",
+    "billing_admin_group"
+  ],
+  "_note": "Fail closed: any resource not listed in self_serve is treated as privileged. Add new self-serve resources explicitly; do not loosen is_privileged() to compensate for a missing entry."
+}

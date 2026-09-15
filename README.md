@@ -13,6 +13,7 @@ Consolidated collection of assignments and exercises from my CCAF course. Each f
 | [`d17-practice/`](./d17-practice) | [d17-practice](https://github.com/RickyDas999/d17-practice) | Day 17 agent practice |
 | [`d18-airtable-mcp/`](./d18-airtable-mcp) | [d18-airtable-mcp](https://github.com/RickyDas999/d18-airtable-mcp) | Day 18 Airtable MCP exercise |
 | [`d19-subagents/`](./d19-subagents) | [d19_subagents](https://github.com/RickyDas999/d19_subagents) | Day 19 subagents exercise |
+| [`d20-access-desk-agent/`](./d20-access-desk-agent) | [IT_Access_Desk_Agent](https://github.com/RickyDas999/IT_Access_Desk_Agent) | Day 20 Agent SDK + MCP + subagents exercise |
 | [`global-tech-news/`](./global-tech-news) | [Global-Tech-News](https://github.com/RickyDas999/Global-Tech-News) | Global tech news project |
 | [`country-intelligence-dashboard/`](./country-intelligence-dashboard) | [Country-Intelligence-Dashboard](https://github.com/RickyDas999/Country-Intelligence-Dashboard) | Country intelligence dashboard project |
 | [`personal-finance-tracker/`](./personal-finance-tracker) | [Personal-Finance-Tracker](https://github.com/RickyDas999/Personal-Finance-Tracker) | Personal finance tracker project |
